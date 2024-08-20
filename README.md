@@ -13,8 +13,6 @@ You can view the live demo of the Netflix Clone here: [Netflix Clone Demo](https
 - **Responsive Design**: The interface adjusts seamlessly across different screen sizes, from desktop to mobile devices.
 - **Homepage Layout**: Features a hero section with a featured movie, and a scrollable list of popular TV shows and movies.
 - **Navigation**: A responsive navigation bar with links to different sections of the site (Home, Trending, My List, etc.).
-- **Movie Cards**: Displays movie posters with hover effects, including a brief description and options for viewing more details.
-- **Search Functionality**: Search for movies and TV shows with a live search feature.
 - **CSS Animations**: Smooth animations for various elements to enhance the user experience.
 
 ## 📂 Technologies Used
